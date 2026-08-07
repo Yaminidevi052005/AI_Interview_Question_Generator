@@ -53,4 +53,3 @@ streamlit run app.py
 - Mock interview chatbot
 - Interview performance scoring
 - Download generated questions as PDF
-
